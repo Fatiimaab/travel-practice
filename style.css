@@ -6,7 +6,7 @@
 
 body{
 font-family: 'Roboto' sans-serif;
-background: url('rocky-landscape.jpg');
+background: url('./assets/rocky-landscape.jpg ');
 height: 100vh;
 justify-content: center;
 align-items: center;
